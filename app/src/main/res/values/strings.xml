@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WebViewSample</string>
+    <string name="unable_to_load_the_page">Unable to Load the Page</string>
+
+    <string name="network_connection_is_not_available">Network connection is not available</string>
+    <string name="server_is_not_responding">Server is not responding</string>
+    <string name="unable_is_load_page_due_slow_network">Unable to Load the Page due to network issue</string>
+    <string name="we_are_facing_some_issue_please_contact_dev_team">We are facing some issue. Please contact the Dev team</string>
+</resources>
